@@ -1,13 +1,13 @@
-# USACE Github Organization
-This repo contains the policies and discussions for the USACE organization.  The Github org USACE is unofficially associated with the USACE enterprise and is managed by a group of volunteers.  
+# USACE MVP ECH Branch Github Organization
+This repo contains the policies and discussions for the USACE MVP ECH Branch.  The Github org USACE-MVP-ECH is unofficially associated with the USACE MVP ECH Branch and is managed by a group of volunteers.  
 
-**General disclaimer** This organization was created for use by USACE programs to collaborate on projects in support of the USACE mission. GitHub is not hosted by USACE, but is a third party website used by USACE and its partners to share information and collaborate on software. USACE use of GitHub does not imply an endorsement of any one particular service, product, or enterprise.
+**General disclaimer** This organization was created for use by USACE MVP ECH Branch programs to collaborate on projects in support of the USACE MVP ECH Branch mission. GitHub is not hosted by USACE MVP ECH Branch, but is a third party website used by USACE MVP ECH Branch and its partners to share information and collaborate on software. USACE MVP ECH Branch use of GitHub does not imply an endorsement of any one particular service, product, or enterprise.
 
-## Guidelines for using the USACE organization
-There are few requirements for participating in the USACE organization, and some recommendations below:
+## Guidelines for using the USACE MVP ECH Branch organization
+There are few requirements for participating in the USACE MVP ECH Branch organization, and some recommendations below:
 
 ### GitHub Accounts
-In order to access non-public resources on the USACE organization, you will need to set up a GitHub account. Each member of the organization must have an individual account, sharing account credentials violates the GitHub terms of service, your cyber security training, and common sense.
+In order to access non-public resources on the USACE-MVP-ECH organization, you will need to set up a GitHub account. Each member of the organization must have an individual account, sharing account credentials violates the GitHub terms of service, your cyber security training, and common sense.
 
 ### User Profiles
 We understand there are reasons for maintaining a pseudonymous profile on Github, we do requre that the profile you use as a member of this organization be set up so that we can collaborate more effectively, as of 6-Oct-2023 we will be requiring all member profiles to include: 
@@ -17,13 +17,13 @@ We understand there are reasons for maintaining a pseudonymous profile on Github
 - Location: Your primary work location (city, state).
 - Photo: A headshot photo, or an appropriate image that is unique to you.
 
-Note that if you do not want to mix your work and personal profile, we recommend you create a separate account tied to your work e-mail address and use that for USACE projects.
+Note that if you do not want to mix your work and personal profile, we recommend you create a separate account tied to your work e-mail address and use that for USACE MVP ECH Branch projects.
 
 ### 2FA
 You must have 2-Factor authentication turned on for your account, this is just a good idea in general.
 
 ## Membership and repository requests
-We don't have a very formal process right now, reach out to Will Breitkreutz, Lyle Seethaler or Randy Goss (find e-mails in outlook, not going to put them here) via USACE e-mail to request access or new repositories.
+Reach out to Lauren Allin or Mitch Weier to request access or new repositories or if you would like to help mangage this github organization.
 
 ## Recomendations for your repositories
 We aren't going to be enforcing these, but as a general rule, it's a good idea to set up your project with the following notices and license.  Feel free to use another license, the Apache 2 license lines up pretty well with the overall regulations, MIT is another good option.
